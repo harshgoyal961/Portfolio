@@ -1,13 +1,12 @@
-# Data Analysis Portfolio
+# Portfolio
 
-Welcome to my data analysis portfolio! Below you'll find a collection of projects that demonstrate my skills in data analysis, visualization, and storytelling using data. Feel free to explore each project by clicking on the links.
+Welcome to my portfolio! Below you'll find a collection of projects that demonstrate my skills in data analysis, research and visualization using data. Feel free to explore each project by clicking on the links.
 
-## Projects
+## SQL Projects
 
-### 1. Sales Analysis
-- **Description:** Analyzed sales data for a retail company to identify trends, seasonality, and key performance metrics.
-- **Tools Used:** Python (Pandas, Matplotlib, Seaborn)
-- **Link:** [Sales Analysis Project](link-to-sales-analysis)
+### 1. Music Store Analysis
+- **Description:** Extract data from various interconnected tables within the music store database using JOIN and CTE. Employed aggregating and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance and artist insights.
+- **Link:** [Sales Analysis Project](link-to-(https://github.com/harshgoyal961/Music_Store_Analysis))
 
 ### 2. Customer Segmentation
 - **Description:** Conducted customer segmentation using clustering algorithms to identify different customer groups for targeted marketing strategies.
