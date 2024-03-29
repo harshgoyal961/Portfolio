@@ -8,10 +8,9 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Description:** Extract data from various interconnected tables within the music store database using JOIN and CTE. Employed aggregating and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance and artist insights.
 - **Link:** [Project](https://github.com/harshgoyal961/Music_Store_Analysis)
 
-### 2. Customer Segmentation
-- **Description:** Conducted customer segmentation using clustering algorithms to identify different customer groups for targeted marketing strategies.
-- **Tools Used:** R (ggplot2, dplyr, kmeans)
-- **Link:** [Customer Segmentation Project](link-to-customer-segmentation)
+### 2. Walmart Store Analysis
+- **Description:** Extract data from the store database using aggregating, conditional, and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance.
+- **Link:** [Project](https://github.com/harshgoyal961/Walmart_Store_Analysis)
 
 ### 3. Sentiment Analysis on Twitter Data
 - **Description:** Performed sentiment analysis on Twitter data to understand public opinion about a specific topic.
