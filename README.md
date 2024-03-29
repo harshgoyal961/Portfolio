@@ -12,6 +12,7 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Description:** Extract data from the store database using aggregating, conditional, and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance.
 - **Link:** [Project](https://github.com/harshgoyal961/Walmart_Store_Analysis)
 
+
 ## Power BI Projects
 
 ### 1. HR Analytics Dashboard
@@ -19,4 +20,4 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Link:** [Project](https://github.com/harshgoyal961/HR_Analytics)
 
 ## Connect with Me
-- [**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
+[**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
