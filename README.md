@@ -17,23 +17,5 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Tools Used:** Python (NLTK, TextBlob, Tweepy)
 - **Link:** [Twitter Sentiment Analysis Project](link-to-twitter-sentiment-analysis)
 
-### 4. Financial Data Analysis
-- **Description:** Analyzed financial data to identify trends, anomalies, and make predictions using time series analysis techniques.
-- **Tools Used:** Python (NumPy, Pandas, Prophet)
-- **Link:** [Financial Data Analysis Project](link-to-financial-data-analysis)
-
-## Skills
-- Data Cleaning and Preprocessing
-- Exploratory Data Analysis (EDA)
-- Data Visualization (Matplotlib, Seaborn, ggplot2)
-- Machine Learning (Scikit-Learn, TensorFlow)
-- Statistical Analysis
-- Time Series Forecasting
-- Natural Language Processing (NLP)
-- SQL and Database Management
-
-## Contact Me
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Email:** your.email@example.com
-
-Feel free to reach out if you have any questions or would like to collaborate on a data analysis project!
+## Connect with Me
+- [**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
