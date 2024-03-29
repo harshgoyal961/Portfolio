@@ -12,10 +12,11 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Description:** Extract data from the store database using aggregating, conditional, and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance.
 - **Link:** [Project](https://github.com/harshgoyal961/Walmart_Store_Analysis)
 
-### 3. Sentiment Analysis on Twitter Data
-- **Description:** Performed sentiment analysis on Twitter data to understand public opinion about a specific topic.
-- **Tools Used:** Python (NLTK, TextBlob, Tweepy)
-- **Link:** [Twitter Sentiment Analysis Project](link-to-twitter-sentiment-analysis)
+## Power BI Projects
+
+### 1. HR Analytics Dashboard
+- **Description:** Developed a comprehensive Power BI dashboard to analyze attrition rates among a workforce of over 1400 employees and utilized DAX and Excel to transform and process data, ensuring data completeness and validity which delivered insights on attrition rates across various metrics including gender, education level, job role, age, salary, and tenure at the company.
+- **Link:** [Project](https://github.com/harshgoyal961/HR_Analytics)
 
 ## Connect with Me
 - [**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
