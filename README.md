@@ -6,7 +6,7 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 
 ### 1. Music Store Analysis
 - **Description:** Extract data from various interconnected tables within the music store database using JOIN and CTE. Employed aggregating and filtering functions to transform and refine the data, facilitating enhanced analysis and delivering a comprehensive overview of the store's performance and artist insights.
-- **Link:** [Sales Analysis Project](link-to-(https://github.com/harshgoyal961/Music_Store_Analysis))
+- **Link:** [Project](https://github.com/harshgoyal961/Music_Store_Analysis)
 
 ### 2. Customer Segmentation
 - **Description:** Conducted customer segmentation using clustering algorithms to identify different customer groups for targeted marketing strategies.
