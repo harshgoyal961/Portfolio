@@ -19,5 +19,9 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Description:** Developed a comprehensive Power BI dashboard to analyze attrition rates among a workforce of over 1400 employees and utilized DAX and Excel to transform and process data, ensuring data completeness and validity which delivered insights on attrition rates across various metrics including gender, education level, job role, age, salary, and tenure at the company.
 - **Link:** [Project](https://github.com/harshgoyal961/HR_Analytics)
 
+### 2. Sales Dashboard
+- **Description:** Developed a comprehensive Power BI dashboard to analyze sales of over 22000 orders and utilized DAX and Excel to transform and process data, ensuring data completeness and validity which delivered insights on different metrics across segments, regions, payment modes, financials, order frequency, and shipment.
+- **Link:** [Project](https://github.com/harshgoyal961/Sales_Dashboard)
+
 ## Connect with Me
 [**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
