@@ -23,5 +23,11 @@ Welcome to my portfolio! Below you'll find a collection of projects that demonst
 - **Description:** Developed a comprehensive Power BI dashboard to analyze sales of over 22000 orders and utilized DAX and Excel to transform and process data, ensuring data completeness and validity which delivered insights on different metrics across segments, regions, payment modes, financials, order frequency, and shipment.
 - **Link:** [Project](https://github.com/harshgoyal961/Sales_Dashboard)
 
+## Academic Research Projects
+
+### 1. Consumer Perception towards FinTech and its Adoption
+- **Description:** Researched on the historical evolution of FinTech, examining its changing perceptions and widespread adoption, and delved into its impact on consumer behavior. Collected data from 160 participants and executed statistical analyses such as Regression, T-test, and ANOVA to evaluate consumer perceptions across different age groups, genders, and demographic segments.
+- **Link:** [Project](https://github.com/harshgoyal961/Consumer_Perception_towards_FinTech_and_its_Adoption)
+  
 ## Connect with Me
 [**LinkedIn**](https://www.linkedin.com/in/harshgoyal961/)
